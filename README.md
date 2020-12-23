@@ -1,3 +1,11 @@
+# Videos App
+It is a video search app , where we retireve videos data from Youtube Data API and render it on the screen.
+
+Screengrab:
+![Capture1.PNG](ss/Capture1.PNG)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
