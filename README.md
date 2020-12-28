@@ -1,5 +1,5 @@
 # Videos App
-It is a video search app , where we retireve videos data from Youtube Data API and render it on the screen.
+It is a video search app , where we retireve videos data from Youtube Data API and render it on the screen using class based components.
 
 Screengrab:
 ![Capture1.PNG](ss/Capture1.PNG)
